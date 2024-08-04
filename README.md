@@ -38,9 +38,12 @@ I'm a motivated and detail-oriented Computer Science & Technology Diploma studen
 ### 💼 Work Experience
 
 #### Cyber Help India (Current)
-- Collaborating on cybersecurity initiatives and awareness programs
-- Contributing to the development of secure digital solutions
-- Participating in community outreach for digital safety education
+Software Developer at Cyber Help India (Current)
+- **Building Custom Software:** Develop and maintain bespoke software applications tailored to client needs.
+- **Enhancing Code Efficiency:** Write and optimize scalable, high-performance code.
+- **Leveraging Modern Technologies:** Utilize cutting-edge frameworks and tools to deliver innovative solutions.
+- **Team Integration:** Collaborate with cross-functional teams to ensure seamless software integration and functionality.
+
 
 ### 🚀 Personal Projects
 
