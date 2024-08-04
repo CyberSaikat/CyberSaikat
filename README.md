@@ -15,8 +15,6 @@ I'm a motivated and detail-oriented Computer Science & Technology Diploma studen
 - Phone: +91 97325 48768
 - Location: Aurobindo Pally, Siliguri
 - Website: [saikatroy.me](https://saikatroy.me)
-- LinkedIn: [Saikat Roy](https://www.linkedin.com/in/saikat-roy)
-- Twitter: [@saikatdev](https://twitter.com/saikatdev)
 
 ### 🌐 Languages
 - English
@@ -24,13 +22,12 @@ I'm a motivated and detail-oriented Computer Science & Technology Diploma studen
 - Hindi
 
 ### 🛠️ Tech Stack
-- **Languages:** PHP, Python, JavaScript
-- **Frontend:** HTML5, CSS3, Bootstrap, jQuery, React (Learning)
-- **Backend:** Node.js (Beginner), Express
+- **Languages:** PHP, Python, JavaScript, TypeScript, Dart
+- **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend:** Node.js (Beginner)
 - **Mobile:** Flutter
-- **Database:** MySQL
-- **DevOps:** Learning Docker, CI/CD
-- **Cloud:** Exploring AWS, Google Cloud Platform
+- **Database:** MySQL, FireBase, MongoDB
+- **Frameworks & Libraries**: React, Next.js, Express, jQuery
 
 ### 🔭 Current Focus
 - Building robust web applications
@@ -73,17 +70,10 @@ I'm a motivated and detail-oriented Computer Science & Technology Diploma studen
 3. **Discount Recharge Platform** - User-friendly recharge service
 4. **Fast Recharge Web** - Online recharge and bill payment platform
 
-### 💡 Favorite Quote
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
-
----
-
-💡 I'm always eager to learn and contribute to exciting projects. Let's connect and create something amazing together!
-
 ### 📊 GitHub Stats and Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberSaikat&color=blue&style=for-the-badge)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=CyberSaikat.CyberSaikat&color=blue&style=for-the-badge)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=CyberSaikat.CyberSaikat&color=blue&style=for-the-badge) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberSaikat&theme=tokyonight)](https://git.io/streak-stats)
 
@@ -104,3 +94,10 @@ I'm a motivated and detail-oriented Computer Science & Technology Diploma studen
 ### ⏱️ WakaTime Stats
 
 [![Saikat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberSaikat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💡 Favorite Quote
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+
+---
+
+💡 I'm always eager to learn and contribute to exciting projects. Let's connect and create something amazing together!
