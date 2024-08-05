@@ -78,13 +78,13 @@ Software Developer at Cyber Help India (Current)
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberSaikat&color=blue&style=for-the-badge)
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=CyberSaikat.CyberSaikat&color=blue&style=for-the-badge) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberSaikat&theme=tokyonight)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberSaikat&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSaikat&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSaikat&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CyberSaikat&theme=tokyonight&column=7)]
+![trophy](https://github-profile-trophy.vercel.app/?username=CyberSaikat&theme=tokyonight&column=7)
 
-[![Saikat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSaikat&theme=tokyo-night)]
+![Saikat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSaikat&theme=tokyo-night)
 
 ### 💻 Skills
 
@@ -96,7 +96,7 @@ Software Developer at Cyber Help India (Current)
 
 ### ⏱️ WakaTime Stats
 
-[![Saikat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberSaikat&theme=tokyonight)]
+![Saikat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyberSaikat&theme=tokyonight)
 
 ### 💡 Favorite Quote
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
