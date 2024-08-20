@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Saikat Roy
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Rancho&size=48&center=true&vCenter=true&width=500&height=70&duration=5000&lines=%F0%9F%91%8B%20Hello,%20I%27m%20Saikat%20Roy" />
+</h1>
 
 ## 💻 Computer Science & Technology Student | 🚀 Web Developer | 📱 Mobile App Enthusiast | 🛡️ Cybersecurity Advocate
 
