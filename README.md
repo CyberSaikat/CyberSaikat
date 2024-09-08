@@ -16,7 +16,7 @@ I'm a motivated and detail-oriented Computer Science & Technology Diploma studen
 ### 📫 Connect with Me
 - Email: saikatroydot@gmail.com
 - Phone: +91 97325 48768
-- Location: Aurobindo Pally, Siliguri
+- Location: Siliguri
 - Website: [saikatroy.me](https://saikatroy.me)
 
 ### 🌐 Languages
